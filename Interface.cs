@@ -1,0 +1,4 @@
+﻿interface DapatDidistribusikan
+{
+    void KirimPaket();
+}
